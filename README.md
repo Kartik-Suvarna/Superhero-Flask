@@ -1,5 +1,5 @@
 # Superhero search using Flask
----
+
 ### Made using Flask and superhero api (https://superheroapi.com/index.html)
 
 ## How to run locally :
